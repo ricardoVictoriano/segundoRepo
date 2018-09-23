@@ -3,3 +3,5 @@ Idade: 27
 Morada: AV DOS BONS AMIGOS 29
 Contacto: 936093806
 Email: jose.victoriano@wakaru.eu
+Estado Civil: Solteiro
+Sexo: M
